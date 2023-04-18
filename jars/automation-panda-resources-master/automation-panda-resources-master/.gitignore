@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Python
+*.pyc
+__pycache__/
+.cache/
